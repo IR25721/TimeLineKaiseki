@@ -1,0 +1,50 @@
+--- Results of Dickey-Fuller Test (Original Data) ---
+Test Statistic                   0.815369
+p-value                          0.991880
+#Lags Used                      13.000000
+Number of Observations Used    130.000000
+Critical Value (1%)             -3.481682
+Critical Value (5%)             -2.884042
+Critical Value (10%)            -2.578770
+------------------------------
+
+--- Results of Dickey-Fuller Test (Log Transformed Data) ---
+Test Statistic                  -1.717017
+p-value                          0.422367
+#Lags Used                      13.000000
+Number of Observations Used    130.000000
+Critical Value (1%)             -3.481682
+Critical Value (5%)             -2.884042
+Critical Value (10%)            -2.578770
+------------------------------
+
+--- Results of Dickey-Fuller Test (Log Diff Data) ---
+Test Statistic                  -2.717131
+p-value                          0.071121
+#Lags Used                      14.000000
+Number of Observations Used    128.000000
+Critical Value (1%)             -3.482501
+Critical Value (5%)             -2.884398
+Critical Value (10%)            -2.578960
+------------------------------
+
+--- Results of Dickey-Fuller Test (Log Seasonal Diff Data) ---
+Test Statistic                  -2.709577
+p-value                          0.072396
+#Lags Used                      12.000000
+Number of Observations Used    119.000000
+Critical Value (1%)             -3.486535
+Critical Value (5%)             -2.886151
+Critical Value (10%)            -2.579896
+------------------------------
+
+--- Results of Dickey-Fuller Test (Log Diff Seasonal Diff Data) ---
+Test Statistic                  -4.443325
+p-value                          0.000249
+#Lags Used                      12.000000
+Number of Observations Used    118.000000
+Critical Value (1%)             -3.487022
+Critical Value (5%)             -2.886363
+Critical Value (10%)            -2.580009
+------------------------------
+

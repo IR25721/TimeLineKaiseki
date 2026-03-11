@@ -1,0 +1,4 @@
+--- Prophet Evaluation Metrics (Multiplicative Mode) ---
+RMSE: 30.77
+MAE:  25.62
+Note: Model used 300 MCMC samples for Bayesian inference.

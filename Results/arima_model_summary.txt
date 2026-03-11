@@ -1,0 +1,26 @@
+--- ARIMA(0,0,1) Model Summary (Trained on Fully Differenced Data) ---
+
+                                 SARIMAX Results                                  
+==================================================================================
+Dep. Variable:     Log_Diff_Seasonal_Diff   No. Observations:                  131
+Model:                     ARIMA(0, 0, 1)   Log Likelihood                 226.995
+Date:                    Thu, 12 Mar 2026   AIC                           -447.991
+Time:                            08:16:15   BIC                           -439.365
+Sample:                                 0   HQIC                          -444.486
+                                    - 131                                         
+Covariance Type:                      opg                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.0003      0.002      0.108      0.914      -0.004       0.005
+ma.L1         -0.3872      0.070     -5.529      0.000      -0.524      -0.250
+sigma2         0.0018      0.000      9.018      0.000       0.001       0.002
+===================================================================================
+Ljung-Box (L1) (Q):                   0.02   Jarque-Bera (JB):                 2.82
+Prob(Q):                              0.89   Prob(JB):                         0.24
+Heteroskedasticity (H):               0.40   Skew:                             0.17
+Prob(H) (two-sided):                  0.00   Kurtosis:                         3.63
+===================================================================================
+
+Warnings:
+[1] Covariance matrix calculated using the outer product of gradients (complex-step).

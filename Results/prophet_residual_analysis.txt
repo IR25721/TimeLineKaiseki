@@ -1,0 +1,11 @@
+--- Prophet Residual Analysis Summary (Log Scale) ---
+Mean Log Residual: 0.0027
+Std Deviation:    0.0474
+Durbin-Watson:    0.6742
+
+Note: Calculated using log(y) - log(yhat) for multiplicative model consistency.
+
+Interpretation Hint:
+- Mean close to 0: Unbiased predictions.
+- Durbin-Watson near 2: No significant autocorrelation.
+- Histogram bell-curved: Normally distributed errors.

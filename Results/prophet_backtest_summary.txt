@@ -1,0 +1,4 @@
+--- Prophet Backtest (Train up to 1954) Summary ---
+Split Date: 1954-12-31
+RMSE (Jan 1955 - Dec 1960): 53.56
+MAE  (Jan 1955 - Dec 1960): 45.01
