@@ -1,0 +1,9 @@
+--- Feature Correlation with Target (PJME_MW) ---
+PJME_MW        1.000000
+lag_1          0.860233
+roll_mean_7    0.808488
+lag_7          0.658175
+is_holiday    -0.042762
+month         -0.063482
+day_of_week   -0.252453
+is_weekend    -0.309230

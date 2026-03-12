@@ -1,0 +1,11 @@
+--- Stationarity Test Results (Daily, v2: Weekly Fix) ---
+
+Log + 1st Diff:
+ADF Statistic: -14.940475216370608
+p-value: 1.3249090824282006e-27
+Stationary: True
+
+Log + 1st Diff + Weekly Diff:
+ADF Statistic: -27.568605917564003
+p-value: 0.0
+Stationary: True

@@ -1,0 +1,19 @@
+--- PJME Hourly Energy Consumption EDA Summary ---
+
+Total entries: 145366
+Time range: 2002-01-01 01:00:00 to 2018-08-03 00:00:00
+Missing values: 
+PJME_MW      0
+hour         0
+dayofweek    0
+month        0
+
+Descriptive Statistics:
+count    145366.000000
+mean      32080.222831
+std        6464.012166
+min       14544.000000
+25%       27573.000000
+50%       31421.000000
+75%       35650.000000
+max       62009.000000

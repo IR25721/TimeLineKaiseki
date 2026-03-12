@@ -1,0 +1,4 @@
+SARIMAX Model Metrics (Log Transformed, Test Set - 365 days):
+MAE: 4865.35 MW
+RMSE: 5601.90 MW
+MAPE: 16.68%

@@ -1,0 +1,4 @@
+Final Model Metrics (Error identified and fixed):
+Approach: Log transformation + Fourier Seasonality
+MAPE: 15.76%
+MAE: 4613.42 MW

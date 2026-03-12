@@ -1,0 +1,4 @@
+Final Model Metrics:
+Approach: Log transformation + 2nd Order Fourier, d=0
+MAPE: 2032.06%
+MAE: 612706.41 MW

@@ -1,0 +1,6 @@
+Improved Prophet Model Metrics (3y train / 1m test):
+R2_Test: 0.0380
+R2_Train: 0.6069
+MAE: 2911.04
+MAPE: 8.61%
+Bias: -1989.60

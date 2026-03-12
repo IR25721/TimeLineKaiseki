@@ -1,0 +1,21 @@
+--- Stationarity Test Results (Daily Resampled) ---
+
+Raw Data:
+ADF Statistic: -8.872849419899074
+p-value: 1.3829462683038804e-14
+Stationary: True
+
+Log Data:
+ADF Statistic: -8.913985330215265
+p-value: 1.0851471253990523e-14
+Stationary: True
+
+Log + 1st Diff:
+ADF Statistic: -14.940475216370608
+p-value: 1.3249090824282006e-27
+Stationary: True
+
+Log + 1st Diff + Monthly Diff:
+ADF Statistic: -14.559133752343916
+p-value: 4.826439633540002e-27
+Stationary: True

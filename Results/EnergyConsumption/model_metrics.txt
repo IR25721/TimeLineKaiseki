@@ -1,0 +1,4 @@
+SARIMAX Model Metrics (Test Set - 365 days):
+MAE: 4880.76
+RMSE: 5584.14
+MAPE: 16.74%
